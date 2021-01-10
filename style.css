@@ -1,6 +1,54 @@
-body {
-    background-image: url("/Screen\ Shot\ 2020-12-13\ at\ 7.15.55\ PM.png");
+/* body {
+    background-image: url("excitedHello.png");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+  } */
+
+  body {
+    background-image: url(excitedHello.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+  /* .back {
+    background: #e2e2e2;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+  } */
+  .back {
+    background-color: transparent;
+    /* width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0; */
+  }
+  
+  .div-center {
+    width: 400px;
+    height: 100%;
+    background-color: #fff;
+    position: absolute;
+    left: 5;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: auto;
+    padding: 1em 2em;
+    border-bottom: 2px solid #ccc;
+    display: table;
+  }
+  
+  div.content {
+    display: table-cell;
+    vertical-align: middle;
   }
