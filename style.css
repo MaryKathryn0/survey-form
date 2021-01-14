@@ -6,7 +6,7 @@
   } */
 
   body {
-    background-image: url(excitedHello.png);
+    background-image: url(\ noVacancy.jpg);
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
@@ -34,6 +34,7 @@
     width: 400px;
     height: 100%;
     background-color: #fff;
+    opacity: .98;
     position: absolute;
     left: 5;
     right: 0;
