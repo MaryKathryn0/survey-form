@@ -8,12 +8,12 @@
   body {
     background-image: url(noVacancy.jpg);
     background-repeat: no-repeat;
-    background-position: right top;
+    background-position: left top;
     background-attachment: fixed;
-    -webkit-background-size: cover;
+    /* -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+    background-size: cover; */
 }
   /* .back {
     background: #e2e2e2;
