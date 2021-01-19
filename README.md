@@ -1,6 +1,19 @@
 # survey-form
-Simple survey meow
+Simple survey template
+
+## Live Link
+
 
 ## "MeOwpinions"
-"Tell us what you think" 
-Sample survey form.
+This is a survey template you can edit to create your own survey
+
+## Survey Options
+This survey template includes the following survey types:
+- Fill in the blank
+- Drop down
+- Radio Buttons
+- Check box
+
+## Credits
+
+
