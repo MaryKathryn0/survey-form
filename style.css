@@ -3,20 +3,24 @@
   body {
     background-image: url(https://i.pinimg.com/originals/d1/47/34/d14734d0e43afd9602feea2ce73d9312.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 
-  
 }
 
-
-  
 .content {
-    margin-left: 30em;
+    margin-right: 38em;
+    background-color: whitesmoke;
+    opacity: 89%;
+    min-width: 450px;
 }
 
   .form-group {
       padding: 5px;
+    
   }
 
-
+header {
+    background-color: whitesmoke;
+    opacity: 89%;
+}
   
