@@ -1,4 +1,4 @@
-# survey-form
+# Survey Template
 Simple survey template
 
 ## Live Link
@@ -12,7 +12,7 @@ This is a survey template you can edit to create your own survey
 This survey template includes the following survey types:
 - Fill in the blank ![fillin](./imgs/fillin.png)
 - Drop down ![drop down](./imgs/dropdown.png)
-- Radio Buttons ![radio buttons](./imgs/radio.png)
+- Radio Buttons <br> ![radio buttons](./imgs/radio.png)
 - Check box ![check box](./imgs/checkbox.png)
 
 ## Credits
