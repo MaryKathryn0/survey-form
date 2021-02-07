@@ -6,7 +6,7 @@ https://marykathryn0.github.io/survey-form/.
 
 ## "MeOwpinions"
 This is a survey template you can edit to create your own survey
-![survey template](./imgs/surveyscreenshot.png)
+![survey template](./imgs/surveryscreenshot.png)
 
 ## Survey Options
 This survey template includes the following survey types:
